@@ -1,4 +1,7 @@
-# data_table
+# TENAS DATA-TABLE
+
+### Preview
+<img src="./src/assets/preview.png">
 
 ## Project setup
 ```
